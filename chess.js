@@ -1,4 +1,4 @@
-let size = 8;
+let size = prompt('Enter the size of the chessboard').value;
 let chess = "";
 for(let i = 0; i < size; i++){
 	for(let j = 0; j < size; j++){
