@@ -11,3 +11,5 @@ for(let i = 0; i < size; i++){
 	} chess += "\n"
 }
 console.log(chessb);
+console.log(chess);
+
