@@ -1,3 +1,4 @@
+// function
 let size = prompt('Enter the size of the chessboard');
 let chessb = "";
 for(let i = 0; i < size; i++){
