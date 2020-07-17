@@ -1,6 +1,5 @@
 # ChesBoard
-
-# Guaranty to place.
+Guaranty to place.
 
 
 
